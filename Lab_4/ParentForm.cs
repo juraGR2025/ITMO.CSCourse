@@ -43,7 +43,6 @@ namespace Lab_4
             Child_Form newChild = new Child_Form();
             newChild.MdiParent = this;
             newChild.Show();
-            newChild.Text = newChild.Text + " " + ++openDocuments;
         }
     }
 }
