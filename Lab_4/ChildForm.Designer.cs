@@ -39,9 +39,10 @@ namespace Lab_4
             // ChildTextBox
             // 
             this.ChildTextBox.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ChildTextBox.Location = new System.Drawing.Point(0, 56);
+            this.ChildTextBox.Location = new System.Drawing.Point(0, 48);
+            this.ChildTextBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ChildTextBox.Name = "ChildTextBox";
-            this.ChildTextBox.Size = new System.Drawing.Size(402, 217);
+            this.ChildTextBox.Size = new System.Drawing.Size(302, 174);
             this.ChildTextBox.TabIndex = 3;
             this.ChildTextBox.Text = "";
             // 
@@ -50,9 +51,10 @@ namespace Lab_4
             this.ChildWindowMenu.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.ChildWindowMenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.FormatMenuItem});
-            this.ChildWindowMenu.Location = new System.Drawing.Point(0, 0);
+            this.ChildWindowMenu.Location = new System.Drawing.Point(0, 24);
             this.ChildWindowMenu.Name = "ChildWindowMenu";
-            this.ChildWindowMenu.Size = new System.Drawing.Size(402, 28);
+            this.ChildWindowMenu.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.ChildWindowMenu.Size = new System.Drawing.Size(302, 24);
             this.ChildWindowMenu.TabIndex = 4;
             this.ChildWindowMenu.Text = "menuStrip1";
             // 
@@ -62,20 +64,21 @@ namespace Lab_4
             this.ToggleMenuItem});
             this.FormatMenuItem.MergeAction = System.Windows.Forms.MergeAction.Insert;
             this.FormatMenuItem.Name = "FormatMenuItem";
-            this.FormatMenuItem.Size = new System.Drawing.Size(70, 24);
+            this.FormatMenuItem.Size = new System.Drawing.Size(57, 20);
             this.FormatMenuItem.Text = "F&ormat";
             // 
             // ToggleMenuItem
             // 
+            this.ToggleMenuItem.MergeIndex = 1;
             this.ToggleMenuItem.Name = "ToggleMenuItem";
-            this.ToggleMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.ToggleMenuItem.Size = new System.Drawing.Size(180, 22);
             this.ToggleMenuItem.Text = "&Toggle Foreground";
             this.ToggleMenuItem.Click += new System.EventHandler(this.ToggleMenuItem_Click);
             // 
             // Child_Form
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
-            this.ClientSize = new System.Drawing.Size(402, 273);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.ClientSize = new System.Drawing.Size(302, 222);
             this.Controls.Add(this.ChildTextBox);
             this.Controls.Add(this.ChildWindowMenu);
             this.Name = "Child_Form";
