@@ -20,6 +20,8 @@ namespace Lab_5_2
         private void buttonClose_Click(object sender, EventArgs e)
         {
             this.Close();
+            Application.Exit();
+
         }
 
         private void RhombForm_Load(object sender, EventArgs e)

@@ -34,26 +34,31 @@ namespace Lab_5_2
             // 
             // buttonClose
             // 
-            this.buttonClose.Location = new System.Drawing.Point(343, 195);
+            this.buttonClose.AutoSize = true;
+            this.buttonClose.Location = new System.Drawing.Point(252, 158);
+            this.buttonClose.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.buttonClose.Name = "buttonClose";
-            this.buttonClose.Size = new System.Drawing.Size(100, 40);
+            this.buttonClose.Size = new System.Drawing.Size(90, 23);
             this.buttonClose.TabIndex = 0;
-            this.buttonClose.Text = "Close";
+            this.buttonClose.Text = "GREENPEACE";
             this.buttonClose.UseVisualStyleBackColor = true;
             this.buttonClose.Click += new System.EventHandler(this.buttonClose_Click);
             // 
             // RhombForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Red;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.Color.Green;
+            this.CausesValidation = false;
+            this.ClientSize = new System.Drawing.Size(600, 366);
             this.Controls.Add(this.buttonClose);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "RhombForm";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.RhombForm_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 

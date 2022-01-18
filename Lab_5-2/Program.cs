@@ -16,7 +16,8 @@ namespace Lab_5_2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new RhombForm());
+         //   Application.Run(new RhombForm());
+            Application.Run(new Form2());
         }
     }
 }
