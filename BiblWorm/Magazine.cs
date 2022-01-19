@@ -46,7 +46,7 @@ namespace BiblWorm//MyClass
            "\n Номер: " + number + "\nГод выпуска: " + year + "\n Подписка оформлена";
            else
                return "\nЖурнал:\n Название: " + title + "\nТом: " + volume +
-           "\n Номер: " + number + "\nГод выпуска: " + year + "\n Подписка не оформлена"; ;
+           "\n Номер: " + number + "\nГод выпуска: " + year + "\n Подписка не оформлена"; 
        }
     }
 }

@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinContainer", "WinContaine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblWorm", "BiblWorm\BiblWorm.csproj", "{5A7A399A-84D4-4F7C-9580-39B0157AF63A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationForm", "RegistrationForm\RegistrationForm.csproj", "{844B4C6A-1F3C-498E-ADA9-C824464165DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5A7A399A-84D4-4F7C-9580-39B0157AF63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A7A399A-84D4-4F7C-9580-39B0157AF63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A7A399A-84D4-4F7C-9580-39B0157AF63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844B4C6A-1F3C-498E-ADA9-C824464165DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844B4C6A-1F3C-498E-ADA9-C824464165DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844B4C6A-1F3C-498E-ADA9-C824464165DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844B4C6A-1F3C-498E-ADA9-C824464165DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
