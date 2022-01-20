@@ -1,0 +1,12 @@
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\ITMO.CSCourse.Lab_3.exercise_1\bin\Debug\ITMO.CSCourse.Lab_3.exercise_1.exe.config
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\ITMO.CSCourse.Lab_3.exercise_1\bin\Debug\ITMO.CSCourse.Lab_3.exercise_1.exe
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\ITMO.CSCourse.Lab_3.exercise_1\bin\Debug\ITMO.CSCourse.Lab_3.exercise_1.pdb
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\ITMO.CSCourse.Lab_3.exercise_1\obj\Debug\WinTimer1.csproj.AssemblyReference.cache
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\ITMO.CSCourse.Lab_3.exercise_1\obj\Debug\WinTimer1.csproj.SuggestedBindingRedirects.cache
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\ITMO.CSCourse.Lab_3.exercise_1\obj\Debug\ITMO.CSCourse.Lab_3.exercise_1.Properties.Resources.resources
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\ITMO.CSCourse.Lab_3.exercise_1\obj\Debug\ITMO.CSCourse.Lab_3.exercise_1.UserControlTimer.resources
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\ITMO.CSCourse.Lab_3.exercise_1\obj\Debug\WinTimer1.csproj.GenerateResource.cache
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\ITMO.CSCourse.Lab_3.exercise_1\obj\Debug\WinTimer1.csproj.CoreCompileInputs.cache
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\ITMO.CSCourse.Lab_3.exercise_1\obj\Debug\ITMO.CSCourse.Lab_3.exercise_1.exe
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\ITMO.CSCourse.Lab_3.exercise_1\obj\Debug\ITMO.CSCourse.Lab_3.exercise_1.pdb
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\ITMO.CSCourse.Lab_3.exercise_1\obj\Debug\ITMO.CSCourse.Lab_3.exercise_1.Form1.resources
