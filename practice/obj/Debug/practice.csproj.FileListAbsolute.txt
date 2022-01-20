@@ -1,0 +1,11 @@
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\practice\bin\Debug\practice.exe.config
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\practice\bin\Debug\practice.exe
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\practice\bin\Debug\practice.pdb
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\practice\obj\Debug\practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\practice\obj\Debug\practice.DBconnect.resources
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\practice\obj\Debug\practice.Properties.Resources.resources
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\practice\obj\Debug\practice.csproj.GenerateResource.cache
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\practice\obj\Debug\practice.exe
+C:\Users\juraGR\YandexDisk\Projects\ITMO.CSCourse.Lab_3\practice\obj\Debug\practice.pdb
