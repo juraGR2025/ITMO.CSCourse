@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsControlLibrary1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTimer2", "..\ITMO.CSCourse.Lab_3\WinTimer2\WinTimer2.csproj", "{798156F5-9F63-407D-88FA-2CBEE4E8DC62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHello", "WpfHello\WpfHello.csproj", "{2E4FF437-31A8-45EA-8DC0-1FD1DEE55EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHelloNav", "WpfHelloNav\WpfHelloNav.csproj", "{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,22 @@ Global
 		{798156F5-9F63-407D-88FA-2CBEE4E8DC62}.Release|Any CPU.Build.0 = Release|Any CPU
 		{798156F5-9F63-407D-88FA-2CBEE4E8DC62}.Release|x86.ActiveCfg = Release|Any CPU
 		{798156F5-9F63-407D-88FA-2CBEE4E8DC62}.Release|x86.Build.0 = Release|Any CPU
+		{2E4FF437-31A8-45EA-8DC0-1FD1DEE55EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4FF437-31A8-45EA-8DC0-1FD1DEE55EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4FF437-31A8-45EA-8DC0-1FD1DEE55EB1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2E4FF437-31A8-45EA-8DC0-1FD1DEE55EB1}.Debug|x86.Build.0 = Debug|Any CPU
+		{2E4FF437-31A8-45EA-8DC0-1FD1DEE55EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4FF437-31A8-45EA-8DC0-1FD1DEE55EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4FF437-31A8-45EA-8DC0-1FD1DEE55EB1}.Release|x86.ActiveCfg = Release|Any CPU
+		{2E4FF437-31A8-45EA-8DC0-1FD1DEE55EB1}.Release|x86.Build.0 = Release|Any CPU
+		{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}.Debug|x86.Build.0 = Debug|Any CPU
+		{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}.Release|x86.ActiveCfg = Release|Any CPU
+		{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
