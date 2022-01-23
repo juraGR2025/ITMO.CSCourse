@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHello", "WpfHello\WpfHel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHelloNav", "WpfHelloNav\WpfHelloNav.csproj", "{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controlTask_done", "controlTask_done\controlTask_done.csproj", "{971DE9CC-4223-406D-A8A2-9849E0D16078}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -191,6 +193,14 @@ Global
 		{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}.Release|Any CPU.Build.0 = Release|Any CPU
 		{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}.Release|x86.ActiveCfg = Release|Any CPU
 		{46DF6503-59F7-4BFB-AE8A-8EA1274F4059}.Release|x86.Build.0 = Release|Any CPU
+		{971DE9CC-4223-406D-A8A2-9849E0D16078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971DE9CC-4223-406D-A8A2-9849E0D16078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971DE9CC-4223-406D-A8A2-9849E0D16078}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{971DE9CC-4223-406D-A8A2-9849E0D16078}.Debug|x86.Build.0 = Debug|Any CPU
+		{971DE9CC-4223-406D-A8A2-9849E0D16078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971DE9CC-4223-406D-A8A2-9849E0D16078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971DE9CC-4223-406D-A8A2-9849E0D16078}.Release|x86.ActiveCfg = Release|Any CPU
+		{971DE9CC-4223-406D-A8A2-9849E0D16078}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
