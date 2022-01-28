@@ -43,7 +43,7 @@ namespace controlTask_done
                         while (reader.Read())
                         {
                             // MessageBox.Show(reader[0] + " " + reader[1]);
-                            ListBox_Page_2.Items.Add(reader[0] + " -- " + reader[1] + " -- " + reader[2]);
+                            ListBox_Page_2.Items.Add(reader[0] + " \t-- " + reader[1] + " \t-- " + reader[2]);
                         }
                     }
                 }
@@ -67,7 +67,7 @@ namespace controlTask_done
                         ListBox_Page_2.Items.Clear();//Очищаем ListBox перед заполнением новыми данными...
                         while (reader.Read())
                         {
-                            ListBox_Page_2.Items.Add(reader[0] + " -- " + reader[1] + " -- " + reader[2] + " -- " + reader[3]);
+                            ListBox_Page_2.Items.Add(reader[0] + " \t-- " + reader[1] + " \t-- " + reader[2] + " \t-- " + reader[3]);
                         }
                     }
                 }
