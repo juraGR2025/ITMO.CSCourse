@@ -40,9 +40,9 @@ namespace controlTask_done
                 {
                     using (SqlDataReader reader = cmd.ExecuteReader())
                     {
+                        ListBox_Page_2.Items.Clear();//Очищаем ListBox перед заполнением новыми данными...
                         while (reader.Read())
                         {
-                            // MessageBox.Show(reader[0] + " " + reader[1]);
                             ListBox_Page_2.Items.Add(reader[0] + " \t-- " + reader[1] + " \t-- " + reader[2]);
                         }
                     }
@@ -72,6 +72,12 @@ namespace controlTask_done
                     }
                 }
             }
+        }
+
+        private void Button_3_Page_2_Click(object sender, RoutedEventArgs e)
+        {
+            Page3 page3 = new Page3();//Создаем экземпляр класса второй страницы
+            this.NavigationService.Navigate(page3);//Добавляем страницу в панель навигации.
         }
     }
 }

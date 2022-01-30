@@ -12,7 +12,9 @@
         <Label x:Name="Label_1_Page_2" Content="Вывести данные из таблицы ProductModelIllustration" HorizontalAlignment="Left" Margin="31,64,0,0" VerticalAlignment="Top" ContentStringFormat=""/>
         <Label x:Name="Label_2_Page_2" Content="Показать сведения из таблицы Department" HorizontalAlignment="Left" Margin="31,199,0,0" VerticalAlignment="Top"/>
         <Button x:Name="Btn_1_Page2" Content="Выполнить" HorizontalAlignment="Left" Margin="119,127,0,0" VerticalAlignment="Top" Height="33" Width="136" Click="Btn_1_Page2_Click"/>
-        <Button x:Name="Btn_2_Page_2" Content="Выполнить" HorizontalAlignment="Left" Margin="119,265,0,0" VerticalAlignment="Top" Height="33" Width="136" Click="Btn_2_Page_2_Click"/>
+        <Button x:Name="Btn_2_Page_2" Content="Выполнить" HorizontalAlignment="Left" Margin="119,250,0,0" VerticalAlignment="Top" Height="33" Width="136" Click="Btn_2_Page_2_Click"/>
         <ListBox x:Name="ListBox_Page_2" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="361,0,0,0" SelectionChanged="ListBox_Page_2_SelectionChanged"/>
+        <Button x:Name="Button_3_Page_2" Content="Редактировать" HorizontalAlignment="Left" Margin="119,321,0,0" VerticalAlignment="Top" Width="136" Height="33" Click="Button_3_Page_2_Click"/>
     </Grid>
+
 </Page>

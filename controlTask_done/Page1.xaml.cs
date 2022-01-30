@@ -35,13 +35,14 @@ namespace controlTask_done
                     {
                         MessageBox.Show("Пользователь авторизовался"); // говорим, что авторизовался
                         Page2 page = new Page2();//Создаем экземпляр класса второй страницы
-                        this.NavigationService.Navigate(page);// 
+                        this.NavigationService.Navigate(page);//Добавляем страницу в панель навигации.
                     }
                     else MessageBox.Show("Пользователь не найден"); // выводим ошибку  
                 }
                 else MessageBox.Show("Введите пароль"); // выводим ошибку    
             }
             else MessageBox.Show("Введите логин"); // выводим ошибку
+
         }
     }
 }
